@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Korra Emulator",
+    "slug": "korraemulator",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "b1603dc8-aa18-47c1-8108-50b06eaaa813"
+      }
+    }
+  }
+}
